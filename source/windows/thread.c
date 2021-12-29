@@ -9,7 +9,7 @@
 #include <aws/common/logging.h>
 #include <aws/common/private/thread_shared.h>
 
-#include <Windows.h>
+#include <windows.h>
 
 #include <inttypes.h>
 
